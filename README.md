@@ -2,7 +2,7 @@
 
 # DemonKingSwarn's Godot Utils
 
-### ToC
+### Docs
 
 [DirManager](./docs/DirManager.md)
 
