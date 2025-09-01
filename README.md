@@ -5,8 +5,11 @@
 ### ToC
 
 [DirManager](./docs/DirManager.md)
+
 [Encryption](./docs/Encryption.md)
+
 [FileOps](./docs/FileOps.md)
+
 [Debug](./docs/Debug.md)
 
 ---
