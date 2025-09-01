@@ -35,6 +35,8 @@ public partial class SaveManager : Node
     string tempFile = saveFile + ".tmp";
     Encryption.DecryptFile(saveFile, tempFile);
     // Load that tempFile
+    tempFile.Close();
+    DirAccess.RemoveAbsolute(tempFile);
   }
 }
 ```
