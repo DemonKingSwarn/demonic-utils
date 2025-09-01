@@ -1,4 +1,4 @@
-<img src="./.asssets/godette.png" alt="Godette" width="64" height="64">
+<img src=".assets/godette.png" alt="Godette" width="64" height="64">
 
 # DemonKingSwarn's Godot Utils
 
